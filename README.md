@@ -1,5 +1,4 @@
 # learning-python-EPAM
 
-EPAM Python course repo
-
-## Subheader test
+## Python course repo
+Started 2023-03-16
