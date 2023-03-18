@@ -1,1 +1,8 @@
+CONFLICT (changes added to one file in two branches - fixed manually)
+
+>>>>>> main
 Some text here from MAIN branch
+
+<<<<<< second
+1 step
+1 change +
